@@ -2,13 +2,13 @@ The CARCOMMERCE website's home page will be displayed first.
 
 It includes the Auto Slider, New Releases, Gallery, and draggable car forms.
 
-In the New Vehicles section, there will be a car listed that, when clicked, will display the car's main description...
+In the New Vehicles section, there will be a car listed, when clicked, will display the car's main description...
 
 This is a simple Web design developed with
 
 HTML
 
-TAILWIND
+TAILWIND CSS
 
 JAVASCRIPT
 
